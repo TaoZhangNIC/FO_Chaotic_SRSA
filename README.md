@@ -1,4 +1,4 @@
-# FO_Chaotiic_SRSA
+# FO_Chaotic_SRSA
 
 This repository contains codes and data for the following publication:
 * Tao Zhang. [Parameter Estimation of Fractional-Order Chaotic Systems Based on Stepwise Integration and Response Sensitivity Analysis]
