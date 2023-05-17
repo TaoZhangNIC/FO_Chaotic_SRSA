@@ -1,7 +1,7 @@
 # FO_Chaotic_SRSA
 
 This repository contains codes and data for the following publication:
-* Tao Zhang, Zhong-rong Lu, Ji-ke Liu, Guang, Liu*. [Parameter Estimation of Fractional-Order Chaotic Systems Based on Stepwise Integration and Response Sensitivity Analysis]
+* Tao Zhang, Zhong-rong Lu, Ji-ke Liu, Guang, Liu*. [Parameter Estimation of Fractional Chaotic Systems Based on Stepwise Integration and Response Sensitivity Analysis]
 
 SRSA is a parameter estimation approach for fractional-order chaotic systems based on stepwise integration and response sensitivity analysis. 
 
