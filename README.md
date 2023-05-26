@@ -20,11 +20,11 @@ This program corresponds to the several numerical examples of this article
   * main_Incommensurate_PMSM_SRSA.m - Codes for the parameter identification of incommensurate fractional order PMSM system.
  # SRSA package
   * FO_unified.m - Codes for the numerical response of fractional order unified system.
-  * FO_Commensurate_PMSM.m - Codes for the numerical response of fractional order unified system.
-  * FO_Incommensurate_PMSM.m - Codes for the numerical response of fractional order unified system.
+  * FO_Commensurate_PMSM.m - Codes for the numerical response of commensurate fractional order PMSM system.
+  * FO_Incommensurate_PMSM.m - Codes for the numerical response of incommensurate fractional order PMSM system.
   * FO_unified_SRSA.m - Codes for the Stepwise response and sensitivity of fractional order unified system.
-  * FO_Commensurate_PMSM_SRSA.m - Codes for the Stepwise response and sensitivity of fractional order unified system.
-  * FO_Incommensurate_PMSM_SRSA.m - Codes for the Stepwise response and sensitivity of fractional order unified system.
+  * FO_Commensurate_PMSM_SRSA.m - Codes for the Stepwise response and sensitivity of commensurate fractional order PMSM system.
+  * FO_Incommensurate_PMSM_SRSA.m - Codes for the Stepwise response and sensitivity of incommensurate fractional order PMSM system.
   * rzz.m - Codes for the binomial coefficients calculation.
   * settick.m - Codes for figures.
   * csvd.m  l_corner.m  l_curve.m  lcfun.m  polt_lc.m  tikhonov.m  - Codes form the Regularization Tools by Per Christian Hansen and IMM.
