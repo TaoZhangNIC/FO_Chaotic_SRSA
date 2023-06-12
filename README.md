@@ -32,3 +32,5 @@ This program corresponds to the several numerical examples of this article
   
 ## Citation
 Please cite the following paper if you find the work relevant and useful in your research:
+Zhang, T., Lu, Zr., Liu, Jk. et al. Parameter estimation of fractional chaotic systems based on stepwise integration and response sensitivity analysis. Nonlinear Dyn (2023). 
+https://doi.org/10.1007/s11071-023-08623-3
